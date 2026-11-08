@@ -1,4 +1,4 @@
-# 📊 Python Data Analysis
+# Python Data Analysis
 
 Data analysis projects and notebooks using Python with pandas, numpy, and matplotlib.
 
